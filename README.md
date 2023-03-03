@@ -1,4 +1,5 @@
 # UITutorial
 
-[[Window.png]]
-[[SecondWindow.png]]
+[[./Window.png]]
+
+[[./SecondWindow.png]]
